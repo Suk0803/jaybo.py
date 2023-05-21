@@ -1,3 +1,3 @@
 # JayBo.py with LangChain
 
-It's be Awesome
+It will be awesome
